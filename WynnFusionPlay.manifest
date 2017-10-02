@@ -1,0 +1,15 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"addin",
+	"author":	"mwynn@FridayNightRacer.com",
+	"description":	{
+		"":	"Wynn's personal place to play with Autodesk Fusion 360 C++ API"
+	},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true,
+	"id":	"f2b0d154-cc26-4c18-b273-3043c0fbc694",
+	"version":	"0.1",
+	"runOnStartup":	true,
+	"sourcewindows":	"WynnFusionPlay.vcxproj",
+	"sourcemac":	"WynnFusionPlay.xcodeproj"
+}
